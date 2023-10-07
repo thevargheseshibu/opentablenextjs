@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ![Open Table ](https://github.com/thevargheseshibu/opentablenextjs/blob/main/images/Home.png)
 
-# Next.js Course Project
+# Next.js OpenTable Project
 
 This repository contains the source code for a Next.js course project, covering various topics related to building web applications with Next.js.
 
