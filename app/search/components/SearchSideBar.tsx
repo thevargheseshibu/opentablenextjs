@@ -1,7 +1,5 @@
 
-
-
-function SideBar() {
+function SearchSideBar() {
     return (
 
         <div className="w-1/5">
@@ -45,4 +43,4 @@ function SideBar() {
     )
 }
 
-export default SideBar
+export default SearchSideBar
