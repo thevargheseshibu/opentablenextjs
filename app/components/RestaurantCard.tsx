@@ -4,8 +4,7 @@ import Link from 'next/link'
 
 export default function RestaurantCard() {
   return (
-    <div className="py-3 px-36 mt-10 flex flex-wrap justify-center">
-    {/* CARD */}
+    
     <Link href="/restaurant/milestones-grill">
       <div
         className="w-64 h-72 m-3 rounded overflow-hidden border cursor-pointer"
@@ -30,8 +29,6 @@ export default function RestaurantCard() {
         </div>
       </div>
     </Link>
-    {/* CARD */}
-  </div>
   )
 }
 
