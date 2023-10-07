@@ -1,5 +1,40 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+![Open Table ](https://github.com/thevargheseshibu/opentablenextjs/blob/main/images/Home.png)
+
+# Next.js OpenTable Project
+
+This repository contains the source code for a Next.js course project, covering various topics related to building web applications with Next.js.
+
+## Main Features
+
+- **File Structure and Routing**: Learn how to organize your project's file structure and implement routing in Next.js.
+
+- **Tailwind CSS**: Integration of the Tailwind CSS framework for styling.
+
+- **Server and Client Components**: Understanding and implementing server and client components in Next.js.
+
+- **Database Integration**: Connect to a Postgres database, define schemas, and seed data.
+
+- **Data Fetching and Rendering**: Fetch and display data from the server using server components.
+
+- **Authentication**: Implement user authentication, including JWT-based authentication.
+
+- **Loading and Error States**: Handle loading, error, and not-found states gracefully.
+
+- **Scheduling and Availability**: Develop scheduling and availability features for your application.
+
+## How to Run the App
+
+Follow these steps to run the Next.js course project on your local machine:
+
+1. **Clone the Repository**:
+
+   ```bash
+   git clone https://github.com/yourusername/nextjs-course-project.git
+   cd nextjs-course-project
+
+
 ## Getting Started
 
 First, run the development server:
