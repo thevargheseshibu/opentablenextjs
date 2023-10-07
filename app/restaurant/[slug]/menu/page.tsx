@@ -1,4 +1,3 @@
-import Link from "next/link"
 import NavBar from "../../../components/NavBar"
 import Header from "../components/Header"
 import RestaurantNavbar from "../components/RestaurantNavbar"
