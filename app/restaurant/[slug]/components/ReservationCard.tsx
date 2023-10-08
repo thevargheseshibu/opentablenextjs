@@ -6,8 +6,7 @@ import useAvailabilities from "../../../../hooks/useAvailabilities";
 import { CircularProgress } from "@mui/material";
 import Link from "next/link";
 import {
-  convertToDisplayTime,
-  Time,
+  convertToDisplayTime
 } from "../../../../utils/convertToDisplayTime";
 
 export default function ReservationCard({

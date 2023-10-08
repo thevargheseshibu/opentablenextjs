@@ -33,5 +33,5 @@ export default function Stars({
     });
   };
 
-  return <div className="flex items-center">{renderStars()}</div>;
+  return <div className="flex items-center">{}</div>;
 }
