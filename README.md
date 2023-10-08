@@ -1,6 +1,8 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ![Open Table ](https://github.com/thevargheseshibu/opentablenextjs/blob/main/images/Home.png)
+![Sign In](https://github.com/thevargheseshibu/opentablenextjs/blob/main/images/SignIn.png)
+![Sign Up ](https://github.com/thevargheseshibu/opentablenextjs/blob/main/images/Signup.png)
 
 # Next.js OpenTable Project
 
@@ -13,6 +15,8 @@ This repository contains the source code for a Next.js course project, covering 
 - **Tailwind CSS**: Integration of the Tailwind CSS framework for styling.
 
 - **Server and Client Components**: Understanding and implementing server and client components in Next.js.
+
+- **Frame**:Prisma (ORM),middleware, hashers and json web tokens.
 
 - **Database Integration**: Connect to a Postgres database, define schemas, and seed data.
 
