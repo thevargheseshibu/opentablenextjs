@@ -1,7 +1,6 @@
 import { PrismaClient } from "@prisma/client";
 import Menu from "../components/Menu";
-import RestaurantNavbar from "../components/RestaurantNavbar";
-
+import RestaurantNavBar from "../components/RestaurantNavBar";
 
 const prisma = new PrismaClient();
 
@@ -32,7 +31,7 @@ export default async function RestaurantMenu({
   return (
     <>
       <div className="bg-white w-[100%] rounded p-3 shadow">
-        <RestaurantNavbar slug={params.slug} />
+        <RestaurantNavBar slug={params.slug} />
         <Menu menu={menu} />
       </div>
     </>
