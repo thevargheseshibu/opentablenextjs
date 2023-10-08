@@ -1,6 +1,7 @@
 "use client"
 import Link from 'next/link'
 import { RestaurantCardType } from '../page'
+import Price from './Price'
 
 interface Props {
   restaurant:RestaurantCardType
@@ -26,7 +27,7 @@ export default function RestaurantCard({restaurant}:Props) {
           </div>
           <div className="flex text-reg font-light capitalize">
             <p className=" mr-3">{restaurant.cuisine.name}</p>
-            <p className="mr-3">$$$$</p>
+            <Price price={restaurant.price} />
             <p>Toronto</p>
           </div>
           <p className="text-sm mt-1 font-bold">Booked 3 times today</p>
