@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-![Open Table ](https://github.com/thevargheseshibu/opentablenextjs/blob/main/images/Home.png)
+![Open Table ](https://github.com/thevargheseshibu/opentablenextjs/blob/main/images/HomePage.png)
 ![Sign In](https://github.com/thevargheseshibu/opentablenextjs/blob/main/images/SignIn.png)
 ![Sign Up ](https://github.com/thevargheseshibu/opentablenextjs/blob/main/images/Signup.png)
 
